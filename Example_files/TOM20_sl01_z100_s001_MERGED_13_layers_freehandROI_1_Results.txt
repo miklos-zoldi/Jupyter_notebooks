@@ -1,0 +1,2 @@
+date_time	version	storm_file	ROI_tag	ROI_perimeter(um)	ROI_area(um^2)	647_NLP
+2019-04-01 16:05:16	1.5	TOM20_sl01_z100_s001_MERGED_13_layers	freehandROI_1	4.77302024903	1.76662215674	1876
